@@ -1,5 +1,5 @@
 {-# OPTIONS --without-K #-}
-module SGD.Axioms where
+module SGD.Foundations.Axioms where
 
 open import Function
 open import Data.Product
