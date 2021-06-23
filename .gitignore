@@ -1,0 +1,2 @@
+*.agdai
+.DS_Store
